@@ -16,5 +16,6 @@
 
 ### [+] Screenshot
 ![screenshot](https://github.com/guedes2142/max-encrypt-2/blob/main/imgs/Screenshot_1.png)
+![screenshot](https://github.com/guedes2142/max-encrypt-2/blob/main/imgs/Screenshot_3.png)
 
 
